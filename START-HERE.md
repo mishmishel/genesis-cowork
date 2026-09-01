@@ -73,39 +73,48 @@ When the user requests a lesson, read the corresponding file from `lessons/` and
 
 Known name-to-startup mappings:
 
-- **Choosie Zhang** → Brick AI
-- **Tianying Xun** → Brick AI
-- **Rach** → SMOOCH (may introduce as Rachel or Rach)
-- **Meiling Yang** → Maynex AI
-- **Beau** → Geospan
-- **Julia** → Geospan
-- **William Byron** → (startup unknown - ask)
-- **Amie Vongvises** → (startup unknown - ask)
-- **Billie Pardavi** → (startup unknown - ask)
-- **Ruth Dooley** → (startup unknown - ask)
-- **Dipesh Mahato** → (startup unknown - ask)
-- **Luca Minagawa** → (startup unknown - ask)
-- **Mahek Agarwal** → (startup unknown - ask)
-- **Lucas Wang** → (startup unknown - ask)
-- **Ritambhara Ganesh** → (startup unknown - ask)
-- **Ameneh Sadeghpour** → (startup unknown - ask)
-- **Tony Barry** → (startup unknown - ask)
+- **Javed Sheikh** → Qiri.ai
+- **Naman Mehta** → Qiri.ai
+- **Nick Wong** → Inteligbl
+- **Deepti Vittal** → Inteligbl
+- **Youny Kwon** → Inteligbl
+- **Chuanxin Wang** → Inteligbl
+- **Marcus Carter** → Ludolio
+- **Jen Scott Curwood** → Ludolio
+- **Eduardo Velloso** → Ludolio
+- **Ben Egliston** → Ludolio
+- **Harsh Jaiswal** → One Tap
+- **Shreshth Dubey** → One Tap
+- **Arnav Chaddha** → One Tap
+- **Will Swann** → Luminous Academy
+- **Daniel Buskariol** → Luminous Academy
+- **Bernadette Fingleton** → Luminous Academy
+- **Serwan Roman** → FUGO
+- **Andrew Vu** → FUGO
+- **Justin Eldahr** → FUGO
+- **Srinidhi Murali** → AgenticLib
+- **Ethan Samuels** → Mio
+- **Dillon DeSilva** → Mio
+- **James Blissett** → Mio
+- **Adrian Janssen** → Share-Sail
+- **Hassan Zeynalov** → SPANZR
+- **Alex True** → CivicPilot
 
 Startup descriptions (match by name, keyword, or description):
 
-- **Brick AI** — Property buyer's assistant helping first home buyers in Australia identify undervalued homes and avoid hidden property issues with property checks and tailored recommendations.
-- **The Extraterrestrials (E.T.)** — Early warning system to help disaster response teams predict Glacial Lake Outburst Floods before they happen, using space tech.
-- **Intelodont** — Surgical guidance system for dentistry helping students and clinicians perform with perfect precision using a digital co-pilot that guides every movement in real-time.
-- **AgriLink** — Climate-based irrigation control system helping vineyard managers and Australian vegetable growers irrigate crops at the right time during extreme heat using field microclimate data.
-- **NanoMatch** — Platform helping biomedical researchers turn static DNA origami designs into workable DNA nanobots with payload-matched designs ready for market applications.
-- **SMOOCH** — Australia's first arousal enhancement functional beverage - helping modern couples reconnect through a playful beverage with natural aphrodisiacs.
-- **GeoXen** — Web platform helping medical and life research scientists analyse complex spatial multi-omics data with intuitive, code-free analysis tools.
-- **Aurelion Scientific** — Catheter-based medical device helping adults who cannot control their blood pressure with pills avoid heart attacks and stroke, using a microwave system that provides doctors immediate confirmation of successful treatment.
-- **Medicom** — Case management portal helping orthopedic clinic assistants coordinate surgical plans across multiple device manufacturers with a single shared interface.
-- **Maynex AI** — Compliance infrastructure helping regulated transport companies stop rebuilding compliance from scratch, using an operations-first approach and a structured model.
-- **Geospan** — Road intelligence platform helping road operators and vehicle manufacturers enable smarter vehicles and safer autonomy with real-time hazard awareness and live semantic mapping.
+- **CivicPilot** - Every council in Australia writes its own planning rules, so a single site can carry three different height limits at once, sitting in three different obscure planning documents. CivicPilot instantly gives you a Development Potential Score out of 100 for any Australian address in under a minute, and every number in it links straight back to the planning clause it came from.
+- **Qiri.ai** - Qiri is an AI clinical decision support platform for community pharmacy. We automate the full workflow prescription verification, drug interactions, dose checking, patient history. So pharmacists can stop drowning in system noise and get back to the patient in front of them.
+- **Inteligbl** - Inteligbl is developing a Speech Cognition Platform to help people who depend on clear speech at work but struggle to be understood, using computational models of how speech is acquired and stabilised across changing communication contexts ultimately informing how AI can acquire the speech characteristics of their owners.
+- **Ludolio** - Ludolio is a B2B games distribution platform that allows educational institutions to give students free access to a curated library of games with educational, cultural and artistic value.
+- **OneTap** - OneTap splits the bill at the moment of payment so the debt never exists, then becomes how groups book and pay for everything they do together.
+- **Luminous** - Luminous Insights is developing a psychology focused digital ecosystem to help mental health care professionals improve the quality of care, workforce capability, and training readiness, with research-backed AI-supported tools.
+- **FUGO** - FUGO is developing a digital retail manager to help service-station operators make profitable decisions with daily product, pricing and promotional recommendations.
+- **AgenticLib** - AgenticLib is developing a comparison intelligence platform to help AI Agent builders in crowded business domains stop losing deals to competitors, with market, competitor and buyer-intent insights delivered as a use-case and product feature backed roadmap.
+- **Mio** - Mio is developing a robot to help older people age safely at home with passive health monitoring, social interaction and everyday support.
+- **Share-Sail** - Share-sail is developing a matching and governance service to help recreational boating syndicates eliminate the friction of co-ownership, through behavioural data science.
+- **SPANZR** - SPANZR is developing a match analysis platform to help semi-professional, grassroots and youth football coaches improve player performance by turning match footage into player statistics and coaching insights.
 
-Keywords for matching: "dentistry" → Intelodont, "irrigation"/"vineyard" → AgriLink, "DNA"/"nanobots" → NanoMatch, "roads"/"autonomous" → Geospan, "compliance"/"transport" → Maynex AI, "property"/"home buyers" → Brick AI, "drinks"/"beverage" → SMOOCH, "orthopedic"/"surgical plans" → Medicom, "blood pressure"/"catheter" → Aurelion Scientific, "glacial"/"flood" → E.T., "multi-omics"/"spatial" → GeoXen.
+Keywords for matching: "building/development" → CivicPilot, "pharmacy" → Qiri.ai, "speech/cognition" → Inteligbl, "game distribution/educational gaming" → Ludolio, "split payment" → OneTap, "mental health/psychology" → Luminous, "service-station/retail manager" → FUGO, "ai agents/agent builders" → AgenticLib, "robot/aged care" → Mio, "sail/boating" → Share-Sail, "football" → SPANZR
 
 **Transitions:**
 
