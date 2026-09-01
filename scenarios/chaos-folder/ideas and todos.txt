@@ -1,0 +1,45 @@
+brain dump - do not delete
+
+Product ideas:
+- AI-powered anomaly detection — flag unusual transactions automatically
+- Template marketplace — let accountants share their custom setups
+- Integration with bank feeds (ANZ, CBA, Westpac APIs)
+- "Health score" dashboard that predicts when you'll run into compliance issues
+- White-label version for accounting firms to offer to their clients
+
+Urgent todos:
+- Fix the website copy about Xero integration (we DON'T have it yet, it's misleading)
+- Reply to that investor email from the demo day (it's been 5 days, too long)
+- Update the pitch deck with Goal Night 1 feedback
+- Send thank-you notes to all the mentors
+- Jordan needs to fix the onboarding flow — 3 users got stuck on step 2 last week
+
+This week:
+- Customer discovery calls: Marcus follow-up, 2 new ones booked
+- Finish the v2 feature spec
+- Apply for the NSW Small Business Innovation grant (due 30 April)
+- Genesis workshop on Wednesday (the AI/data one with the Airtree guy)
+
+Longer term:
+- SOC2 compliance — expensive but investors keep asking
+- Hire a part-time marketing person (or use AI tools to do it ourselves?)
+- Set up proper analytics (we're basically guessing right now)
+- Think about whether we need a third co-founder with sales experience
+
+Fundraising prep:
+- Build a proper data room
+- Get a lawyer to review our cap table (currently just a google sheet)
+- Draft a one-pager / investment teaser
+- List of target investors:
+  * Angels: Tony (maybe), Priya's mentor (get intro), demo day contacts
+  * VCs: Airtree, Blackbird, Giant Leap (impact angle?), Square Peg
+  * Grants: Genesis prize ($30K), NSW innovation grant, Accelerating Commercialisation
+
+Competitor watch:
+- AutoLedger (YC W26) just launched in AU — check their pricing and features
+- EnterprisePro dropped their SMB tier — are they giving up on our segment?
+
+Random:
+- Jordan's uni assignment is due same week as Goal Night 2 — they'll be stressed
+- The domain name we wanted is available for $1,200 — worth it?
+- Should we apply to Startmate next cohort?

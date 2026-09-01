@@ -1,0 +1,35 @@
+Sydney Startup Demo Day - 18 March 2026
+@ Stone & Chalk, Sydney CBD
+
+Met a ton of people, business cards are in my jacket pocket. Need to add to contacts.
+
+INVESTORS:
+- Rachel Kim (Horizon Ventures) — Lisa is doing an intro, she specifically invests in fintech/SMB
+- Ben Torres (Venture Partners) — seemed interested, said "come back when you have 20 paying customers"
+- Marnix Denys (Airtree Ventures) — data lead, runs AI/Cowork sessions for founders. Super knowledgeable about how startups can use AI agents to move faster. Said to reach out.
+- Anika Patel — angel investor, ex-CFO of a fintech. Loved our compliance angle.
+
+POTENTIAL CUSTOMERS:
+- Marcus Tan — accounting practice in Parramatta (already doing a pilot, met him again)
+- Dave Chen — runs 3 retail stores, very interested in the mobile app
+- Nadia Hassan — e-commerce brand, similar profile to Priya
+
+OTHER FOUNDERS:
+- Will Park — building a proptech AI tool, Genesis cohort peer. Good guy, we should share notes.
+- Mei Zhang — edtech startup, also in Genesis. Her pitch was really polished.
+- Tom Riley — healthtech, pre-revenue but impressive tech demo
+- Sarah Lin — climate tech, she's been through Startmate. Great advice on fundraising.
+
+MENTORS / ADVISORS:
+- David Okonkwo — Genesis mentor, runs a consulting firm. Offered to review our financial model.
+- James Liu — ex-CTO at a fintech startup. Could be a good technical advisor.
+
+RANDOM:
+- The event was way better than expected. Good energy, real conversations.
+- Keynote speaker talked about "the AI-native startup" — we should be positioning ourselves this way
+- Overheard that Competitor C (AutoLedger) is hiring aggressively in Sydney
+- Someone mentioned a government grant for AI startups — need to look into this
+
+TODO: add all these people to our contacts spreadsheet (the google sheet one, not the CSV)
+TODO: send follow-up emails to everyone within 48 hours (it's already been 3 days... oops)
+TODO: especially reply to Marnix — he seemed genuinely keen to help

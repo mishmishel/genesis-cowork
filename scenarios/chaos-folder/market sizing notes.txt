@@ -1,0 +1,47 @@
+Market Sizing - ROUGH NOTES
+(need to clean this up for the pitch deck and grant application)
+
+=== TOP DOWN ===
+
+Total small businesses in Australia: 2.6 million (ABS 2024)
+% that do their own bookkeeping/finance: ~60% = 1.56M
+% in our target segments (accounting, professional services, trades, retail, e-commerce): ~40% = 624K
+Assume $500/year average spend on financial tools
+TAM (Australia) = $312M
+
+But this feels wrong. Tony said top-down is lazy. Do bottom-up instead.
+
+=== BOTTOM UP ===
+
+Target: small businesses with 1-20 employees in Australia
+Number of businesses in this range: ~2.3M (ABS)
+Our addressable segments:
+- Accounting practices: ~35,000
+- Professional services: ~180,000
+- Trades/services: ~370,000
+- Retail: ~135,000
+- E-commerce: ~65,000
+Total addressable: ~785,000
+
+Realistic penetration in 5 years: 2% = ~15,700 customers
+At blended ARPU of $500/year = $7.85M ARR
+
+If we expand to NZ: add ~30% = ~$10.2M ARR
+
+SAM (5-year Australia + NZ): ~$10M
+SOM (2-year, accounting practices only): 500 customers x $500/yr = $250K
+
+=== NOTES ===
+- These numbers feel small for a VC pitch. Tony said that's OK for pre-seed but we need to show the expansion path
+- Expansion path: start with AU SMB, expand to NZ, then UK (similar regulatory environment)
+- Also: platform play — if we own the SMB finance layer, we can add lending, insurance, payments
+- Competitor A is doing $15M ARR with enterprise. Shows the market can support it at higher price points
+
+=== SOURCES ===
+- ABS cat 8165.0 (small business counts) — need to check if this is the latest
+- Xero's IPO filing had some useful market data
+- MYOB annual report 2025
+- Tony's estimate based on his experience (take with grain of salt)
+- That McKinsey report on AU fintech — can I find it again?
+
+TODO: make this into a proper slide with a visual. The pyramid thing.

@@ -1,0 +1,72 @@
+Pitch Deck - v3 (updated after Goal Night 1 feedback)
+
+SLIDE 1 - TITLE
+[Company name + tagline]
+TODO: still need a proper tagline, the current one is too long
+
+SLIDE 2 - PROBLEM
+- Current process is manual, slow, expensive
+- Small businesses spend 6-8 hours/week on this
+- No affordable solution exists for <$1M revenue businesses
+- TODO: find a better stat for market pain. The 6-8 hours came from our survey but sample size was small (n=34)
+
+SLIDE 3 - SOLUTION
+- AI-powered platform that automates the workflow
+- 10x faster than manual process
+- Self-serve, no training needed
+- Mobile-first design
+NOTE FROM MENTOR: "Show don't tell - can we get a product screenshot or demo video for this slide?"
+
+SLIDE 4 - MARKET SIZE
+TAM: $4.2B (global) -- need to double check this number, got it from a Statista report
+SAM: $380M (Australia + NZ)
+SOM: $12M (target segment in first 2 years)
+TODO: Matt said TAM/SAM/SOM should be bottom-up not top-down. Redo this calculation.
+
+SLIDE 5 - TRACTION
+- 340 waitlist signups (organic, no paid)
+- 12 pilot customers (3 paying, 9 free trial)
+- $2,400 MRR
+- NPS: 72 from pilot users
+- Letter of intent from 2 enterprise prospects
+NOTE: should I include the LOIs? They're non-binding...
+
+SLIDE 6 - BUSINESS MODEL
+- Freemium: free tier (basic) / Pro $29/mo / Business $79/mo
+- Target: 5% free-to-paid conversion
+- LTV: $870 (estimated based on 2.5yr avg retention -- this is a guess)
+- CAC: $45 (blended, mostly organic right now)
+- TODO: Jordan says we need unit economics slide separate from business model
+
+SLIDE 7 - COMPETITION
+- Competitor A: enterprise-focused, $500+/mo, overkill for SMBs
+- Competitor B: free tool but no AI, very manual
+- Competitor C: new entrant, similar approach but US-only
+- Our edge: built specifically for Australian market + regulatory requirements
+FEEDBACK FROM ADVISOR: "Don't trash competitors. Show your differentiation matrix instead."
+
+SLIDE 8 - TEAM
+- [Founder 1] - CEO, background in [industry], 5 years experience
+- [Founder 2] - CTO, ex-[company], built [relevant thing]
+- Advisory: [mentor name], [advisor name]
+TODO: get proper headshots, not the ones from LinkedIn
+
+SLIDE 9 - ASK
+- Raising $500K pre-seed
+- Use of funds: 60% product development, 25% go-to-market, 15% ops
+- 18-month runway to Series A milestones
+- Target close: July 2026
+TODO: do we include valuation? Matt said don't put it in the deck, discuss in person
+
+SLIDE 10 - APPENDIX
+- Product roadmap (Q2-Q4 2026)
+- Detailed financial projections (see separate spreadsheet)
+- Customer testimonials (need to get permission first)
+- Technical architecture overview
+
+---
+Random notes for next version:
+- Anna said the Genesis judges want to see customer validation front and centre
+- Move traction slide earlier? Maybe right after problem/solution?
+- Jordan's designer friend offered to help with slide design for $200 - worth it?
+- Need to practice delivery - currently takes 8 minutes, need to get to 5

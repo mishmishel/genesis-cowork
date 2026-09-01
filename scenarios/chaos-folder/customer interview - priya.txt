@@ -1,0 +1,40 @@
+priya okafor - customer discovery call
+19 march
+
+she runs an e-commerce brand, ~$800K revenue, 4 people
+found us through the Genesis network actually
+
+currently doing everything manually in google sheets
+spends 2 days/month just on reconciliation
+has tried zapier + airtable combo but "it breaks every time something changes"
+
+what she needs:
+- automatic categorisation (this is our core feature so good)
+- integration with xero (WE DON'T HAVE THIS YET - she assumed we did from the website)
+- bulk processing - she does 200-400 transactions/month
+- export to her accountant in a specific format
+
+interesting insight: she said the REAL pain isn't the time, it's the anxiety
+"I never know if I'm missing something until it's too late"
+-- this is a much better way to frame the problem in our pitch
+
+she's in a different genesis cohort (cohort 34 alumni) and offered to intro us to her mentor who's an angel investor
+
+concerns:
+- xero integration is a dealbreaker for her (noted - this keeps coming up)
+- worried about AI accuracy for financial data
+- wants to see case studies from similar businesses
+
+would she pay?
+- yes, but only if xero integration exists
+- said $79/mo is fine for the business tier if it saves her those 2 days
+- would consider annual billing for a discount
+
+random: she also mentioned that most founders she knows have this exact same problem
+potential channel partnership? founders helping founders?
+
+todo:
+- get her mentor's contact (angel investor, name is something like raj or rajan?)
+- update feature roadmap to prioritise xero integration
+- fix the website copy that implies we integrate with xero (URGENT)
+- add her quote about anxiety to the pitch deck

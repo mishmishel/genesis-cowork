@@ -1,0 +1,44 @@
+Goal Night 1 - 25 March 2026
+Feedback and notes
+
+Our goals we presented:
+1. Reach 15 paying customers by Goal Night 2 (currently at 3)
+2. Complete v2 of the product with top 3 requested features
+3. Validate pricing with 20+ customer discovery calls
+
+Mentor feedback (from David):
+- "Your customer numbers are growing but you need to show REVENUE growth, not just user growth"
+- "The pricing tiers make sense but test a higher price point - you might be leaving money on the table"
+- "Focus on one vertical first. You're spreading too thin."
+- Liked our NPS score, said to get more data points
+
+Mentor feedback (from Lisa):
+- "Your pitch is too product-focused. Lead with the customer pain."
+- "The team slide is weak - sell your unfair advantage"
+- "Have you talked to investors yet? Start building relationships now, don't wait until you're 'ready'"
+- She offered to intro us to 2 angel investors she knows
+
+Feedback from other founders:
+- Arun (cohort peer) - "Your demo was the best in the room but your slides need work"
+- Sophie - "I had the same problem with pricing. A/B test it."
+- William said he'd be a pilot customer for the business tier
+
+Things we need to fix before Goal Night 2 (15 April):
+[ ] Rebuild pitch deck (lead with pain, not features)
+[ ] Get to 10+ paying customers minimum
+[ ] Start investor conversations - even if it's just coffee chats
+[ ] Build a proper financial model (not the back-of-napkin one)
+[ ] Update competitive analysis - Competitor C just launched in AU
+[ ] Practice the 5-minute pitch (currently at 8 min)
+
+Jordan's notes:
+- We should set up a proper CRM instead of tracking everything in google sheets
+- Need to consolidate all our customer feedback somewhere
+- The free trial users from week 1 are churning - we need to fix onboarding
+
+How other teams are going:
+- Team doing the food delivery thing has 50+ customers already (impressive)
+- The health tech team pivoted completely since onboarding - brave
+- The edtech team has a grant application pending
+
+mood: motivated but overwhelmed. too many things to do, not enough time.

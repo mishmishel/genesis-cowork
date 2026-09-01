@@ -1,0 +1,13 @@
+Feature,Us,CompetitorA (EnterprisePro),CompetitorB (BasicBooks),CompetitorC (AutoLedger),Notes
+Pricing (per month),$29 Pro / $79 Business,$499 / $899,Free / $9.99,,$49 / $99,We're mid-range. A is enterprise. C just launched.
+Free Tier,Yes (limited),No,Yes (full but manual),Yes (14-day trial only),B's free tier is generous but no AI
+AI Automation,Core feature,Yes (advanced),No,Yes (basic),Our AI is better than C's but A has more training data
+Xero Integration,Coming Q3,Yes,Yes,No,THIS IS OUR BIGGEST GAP - keeps coming up in interviews
+Mobile App,Yes (MVP),Yes (full),No,No,Big differentiator for us
+Australian Compliance,Yes (built for AU),Partial (US-focused),Yes,No (US only),Major advantage over A and C
+Customer Support,Email only,24/7 phone + chat,Community forum,Email + chat,Need to improve this
+Onboarding,Self-serve,White-glove,DIY,Video tutorials,Feedback says our onboarding needs work
+Target Market,SMB (<$5M revenue),Mid-market + Enterprise,Micro-business / solo,SMB (US focus),Clear lane for us in AU SMB
+Data Security,AWS Sydney,SOC2 + ISO27001,Unknown,SOC2 pending,"Need SOC2 - investors ask about this"
+API,Not yet,Yes,No,Yes,"On roadmap for Q4"
+NOTES:,"CompetitorA raised $15M Series A in Feb 2026 - they'll push into AU soon. CompetitorC is Y Combinator W26 - watch closely. BasicBooks is losing users to AI tools. Our window is NOW."

@@ -1,0 +1,37 @@
+Customer Interview - Marcus Tan
+Date: sometime in March? (check calendar)
+Location: phone call
+
+Background:
+- Runs a small accounting practice in Parramatta, 6 staff
+- Found us through a LinkedIn post
+- Currently uses spreadsheets and a legacy system from 2019
+
+Pain points:
+- Spends "at least a full day every week" on the manual process
+- Has tried 2 other tools but both were too complex / expensive
+- His staff resist new tools - "they just want something simple"
+- Compliance reporting is a nightmare, always worried about missing something
+
+What he liked about our demo:
+- The automated alerts ("this alone would save me hours")
+- Mobile access - he's often at client sites
+- Price point - said $29/mo is "a no-brainer" compared to what he's paying now
+
+Concerns:
+- Data security - wants to know where data is stored (we need a proper security page)
+- Migration from existing system - "I can't afford downtime"
+- What happens if the AI gets something wrong? Liability?
+
+Willingness to pay:
+- Said he'd pay up to $50/mo if it genuinely saves him a day per week
+- Would want a free trial first - "I've been burned before"
+- Mentioned 2-3 colleagues who'd probably sign up too if he recommends it
+
+Action items:
+[ ] Send him the security FAQ (do we have one? ask Jordan)
+[ ] Schedule follow-up demo with his office manager Sarah
+[ ] Add to pilot program waitlist
+[ ] Ask if he'd do a video testimonial later
+
+Quote: "If this works as advertised, it's exactly what small practices like mine have been waiting for."

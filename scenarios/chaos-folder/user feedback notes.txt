@@ -1,0 +1,47 @@
+User Feedback Compilation
+From pilot users, support emails, and demo calls
+(should really put this in a proper system)
+
+=== ONBOARDING ISSUES ===
+- "I got stuck on step 2 where it asks to connect my bank. The button didn't work on Safari." (3 users reported this)
+- "The tutorial video is too fast. Can you add a written guide?"
+- "I signed up for free but I can't figure out how to start. There's no welcome email?"
+- "The dashboard looks great but I have no idea what to do first"
+
+=== FEATURE REQUESTS ===
+- Xero integration (Marcus, Priya, and 6 survey respondents)
+- MYOB integration (4 survey respondents)
+- Multi-currency support (1 user, e-commerce)
+- Recurring transaction rules ("learn" from my corrections)
+- Receipt scanning via phone camera
+- Custom categories beyond the default ones
+- PDF export of reports (currently only CSV)
+- Dark mode (lol, but 2 people asked)
+
+=== POSITIVE FEEDBACK ===
+- "The AI categorisation is scarily accurate. It got 95% right on the first pass." - Marcus
+- "I love that I can do this from my phone while I'm at a client site." - pilot user
+- "This is what MYOB should have been." - survey respondent
+- "My accountant was impressed by the reports. Said it's better than what most of his clients produce." - pilot user
+- "The compliance alerts alone are worth the subscription." - Marcus
+
+=== BUGS / ISSUES ===
+- Safari step 2 button (known, Jordan is fixing)
+- Slow loading on mobile when lots of transactions (>200)
+- CSV export sometimes has encoding issues with special characters
+- One user reported duplicate transactions after re-connecting their bank
+
+=== CHURN REASONS ===
+- "I just wanted to try it, not really ready yet" (free tier)
+- "Need Xero integration before I can switch" (free tier)
+- "Too complex for what I need" (1 user, sole trader)
+
+=== NPS SCORES ===
+Responses: 12
+Promoters (9-10): 7
+Passives (7-8): 3
+Detractors (0-6): 2
+NPS: 42 ... wait, that doesn't match what I put in the pitch deck (72)
+
+ACTUALLY: I recalculated. (7/12 - 2/12) x 100 = 41.7
+Did I use a different sample before? Check the original survey. This is important — if the deck says 72 and the real number is 42, that's a problem.

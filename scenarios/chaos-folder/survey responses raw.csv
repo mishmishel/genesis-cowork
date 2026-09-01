@@ -1,0 +1,35 @@
+Timestamp,Business Type,Employees,Current Solution,Hours Per Week on Manual Process,Biggest Pain Point,Would You Pay $29/mo,Would You Pay $79/mo,How Did You Hear About Us,Additional Comments
+2026-02-14 09:23,Accounting Practice,4,Spreadsheets,8,Compliance reporting,Yes,Maybe,LinkedIn,Need Xero integration
+2026-02-14 11:45,E-commerce,2,Airtable + manual,5,Reconciliation errors,Yes,Yes,Word of mouth,Looks promising
+2026-02-15 08:12,Retail,6,MYOB,4,Too many manual steps,Yes,No,Google search,Already using MYOB so would need integration
+2026-02-15 14:33,Consulting,1,Nothing/manual,10,Everything takes forever,Yes,No,Genesis network,Solo founder so price sensitive
+2026-02-16 10:01,Trades/Services,3,Shoebox of receipts,6,No idea if I'm compliant,Yes,Maybe,Facebook,Not tech savvy - needs to be simple
+2026-02-17 16:22,Hospitality,8,Xero + manual,3,Staff don't follow process,Maybe,No,Instagram,Already have Xero so less pain
+2026-02-18 09:45,Professional Services,5,QuickBooks,7,Switching between systems,Yes,Yes,LinkedIn,Would switch from QuickBooks if this works
+2026-02-19 11:30,E-commerce,1,Google Sheets,12,I do everything myself,Yes,Maybe,Twitter/X,Please build this faster
+2026-02-20 08:55,Healthcare Practice,4,Legacy software from 2018,6,Software is ancient,Yes,Yes,Referral from accountant,Desperate for something modern
+2026-02-20 14:12,Retail,2,Manual + accountant,4,Accountant is expensive,Yes,No,Google search,
+2026-02-21 10:33,Creative Agency,3,Xero,2,Invoicing follow-ups,No,No,LinkedIn,Already pretty happy with Xero honestly
+2026-02-22 09:18,Trades/Services,5,Receipt Bank + Xero,3,Integration keeps breaking,Yes,Yes,Word of mouth,Want something that JUST WORKS
+2026-02-23 11:44,Accounting Practice,12,Class Super + manual,9,Compliance for multiple clients,Yes,Yes,Industry newsletter,Would need multi-client support
+2026-02-24 15:20,E-commerce,1,Spreadsheets,8,Tax time is a nightmare,Yes,Maybe,Genesis network,
+2026-02-25 08:30,Professional Services,2,Wave Accounting,5,Reports are useless,Yes,No,Google search,
+2026-02-25 16:45,Hospitality,15,Xero + Tanda,2,Payroll reconciliation,Maybe,No,LinkedIn,Might be overkill for us
+2026-02-26 09:12,Non-profit,3,Manual,7,Audit trail requirements,Yes,Yes,Referral,Non-profit pricing available?
+2026-02-27 13:33,Retail,4,MYOB,5,Inventory + finance disconnect,Yes,Maybe,Google search,MYOB integration would be key
+2026-02-28 10:00,Consulting,1,Nothing,6,Don't know where to start,Yes,No,Twitter/X,Total beginner with finance stuff
+2026-03-01 14:22,Trades/Services,2,Shoebox + accountant,4,Only think about it at tax time,Yes,No,Facebook,Make it idiot-proof please
+2026-03-02 09:45,Accounting Practice,7,Mixed systems,8,Every client uses something different,Yes,Yes,Industry event,Multi-client dashboard would be huge
+2026-03-03 11:15,E-commerce,3,Shopify reports + manual,5,Shopify and actual finances don't match,Yes,Yes,Genesis network,Shopify integration would be amazing
+2026-03-04 08:30,Healthcare Practice,2,Paper-based,10,Still doing paper receipts,Yes,Maybe,Google search,Yes we know we need to modernise
+2026-03-05 15:40,Professional Services,4,Xero,3,Custom reporting,Maybe,No,LinkedIn,Xero does most of what we need
+2026-03-06 09:22,Construction,6,Excel + contractor,7,Job costing is a mess,Yes,Yes,Referral,Need job-based tracking not just categories
+2026-03-07 11:50,Retail,1,Square reports only,8,No proper books at all,Yes,No,Instagram,Just opened my shop 6 months ago
+2026-03-08 14:15,Consulting,2,FreshBooks,4,Doesn't handle AU tax properly,Yes,Maybe,Google search,FreshBooks is US-focused
+2026-03-10 10:30,Accounting Practice,3,Desktop software,9,Can't access remotely,Yes,Yes,LinkedIn,Cloud-based is essential
+2026-03-11 08:45,E-commerce,2,Spreadsheets + accountant,6,Accountant bills by the hour,Yes,Yes,Word of mouth,Saving on accountant fees would pay for itself
+2026-03-12 16:00,Creative Agency,5,Xero + Harvest,3,Time tracking to invoicing gap,Maybe,No,Genesis network,Niche problem probably not worth solving
+2026-03-13 09:30,Non-profit,1,Manual,11,Grant reporting requirements,Yes,Maybe,Referral from another non-profit,Grant reporting is the killer feature
+2026-03-14 11:22,Trades/Services,4,Rounded (app),5,App is buggy,Yes,No,Google search,Would switch if this is more reliable
+2026-03-15 14:55,Hospitality,3,POS system only,4,POS doesn't do proper accounting,Yes,Maybe,Facebook,Need POS integration
+2026-03-16 08:40,Professional Services,6,MYOB + Excel,6,Double data entry,Yes,Yes,Industry newsletter,The double entry kills us

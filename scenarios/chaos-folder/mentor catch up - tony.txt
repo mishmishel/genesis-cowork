@@ -1,0 +1,35 @@
+Meeting with Tony (Genesis mentor)
+Coffee at The Grounds, 20 March
+
+Tony's background: sold his SaaS company in 2022 for $12M, now angel investing and mentoring
+
+Key advice:
+- "You're building a vitamin, not a painkiller. Find the customers where this is a MUST-HAVE, not a nice-to-have. For Marcus (accounting practice), it's a painkiller. For the e-commerce people, it might just be a vitamin."
+- "Your unit economics story is actually good. Most founders at your stage can't articulate LTV/CAC at all."
+- "Stop trying to be everything to everyone. Pick accounting practices OR e-commerce. Not both. At least not yet."
+
+On fundraising:
+- "Don't raise until you have 20 paying customers and can show month-over-month growth"
+- "Pre-seed in Sydney right now is $300K-$750K on $3-5M post-money. Don't let anyone tell you otherwise."
+- "Talk to Airtree's explorer program, they back early-stage and have great founder support"
+- "Start with angels who know your industry. VC comes later."
+- Said he might put in $25K himself if we hit our Goal Night 2 milestones
+
+On the product:
+- Loved the mobile-first approach
+- Said Xero integration should be #1 priority (same thing customers are saying)
+- "Your free tier is too generous. You're training people to never pay."
+- Suggested we add a usage limit to free tier to drive conversion
+
+On Genesis:
+- "Use the program. Most founders treat it as a checkbox. The ones who get the most out of it are the ones who actually implement the mentor feedback."
+- "The finale is your chance to get in front of investors. Treat your pitch like a fundraise, not a school presentation."
+
+Action items:
+[ ] Narrow down target vertical (accounting vs e-commerce)
+[ ] Research Airtree explorer program
+[ ] Tighten free tier limits
+[ ] Send Tony our updated financial model when it's ready
+[ ] Intro to his friend who runs an accounting practice network (potential distribution channel)
+
+Tony is great. Need to send him a thank you message.

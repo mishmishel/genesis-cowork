@@ -1,0 +1,41 @@
+Co-founder sync notes - Jordan and me
+28 March (Friday night, over ramen)
+
+Equity split:
+- Currently 50/50 but we never formalised it
+- Tony said we NEED a shareholders agreement before talking to investors
+- Lisa recommended a startup lawyer — Claire something at Aspect Legal? Get her details
+- Also need to set up vesting (4 year, 1 year cliff is standard apparently)
+
+Division of responsibilities:
+- Me: product vision, customer discovery, fundraising, Genesis program
+- Jordan: tech/engineering, product development, infrastructure
+- Grey areas: marketing (neither of us is great at it), hiring, finance
+- Agreed: I handle investor comms, Jordan handles technical due diligence
+
+Current stress points:
+- Jordan's uni workload is heavy in April — might need to reduce startup hours
+- I'm doing too many customer calls and not enough strategy/fundraising
+- Neither of us is doing marketing properly — it's all organic/word of mouth
+- We keep context-switching between features instead of finishing things
+
+Decisions made:
+1. Focus on accounting practices as primary vertical (not e-commerce, for now)
+2. Xero integration is top priority for April-May
+3. We'll aim for 15 paying customers before approaching VCs
+4. Apply for the NSW innovation grant (due 30 April)
+5. Jordan will build a proper onboarding flow by Goal Night 2
+
+Open questions:
+- Do we incorporate as a Pty Ltd now or wait? (costs ~$500-800 with ASIC)
+- Should we bring on a third person for sales/marketing?
+- When do we start paying ourselves? (answer: not yet)
+- IP assignment — Jordan built some of the early code during a uni project. Is that a problem?
+
+Personal check-in:
+- We're both tired but excited
+- Agreed to protect weekends (at least Sundays) for mental health
+- Jordan wants to do the Startmate founders program next year
+- We should celebrate small wins more — we're so focused on what's NOT done
+
+Next sync: after Goal Night 2 (15 April)

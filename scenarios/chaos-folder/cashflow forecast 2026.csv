@@ -1,0 +1,15 @@
+Month,Revenue,Expenses,Runway Note,New Customers,Churn
+Jan-26,0,4200,Pre-launch,0,0
+Feb-26,0,4800,Pre-launch,0,0
+Mar-26,2400,5100,,3,0
+Apr-26,4800,5500,estimate,6,1
+May-26,7200,6000,estimate,9,1
+Jun-26,10800,7500,estimate - hiring a contractor,14,2
+Jul-26,14400,8000,estimate,18,2
+Aug-26,19200,9000,series A target close,24,3
+Sep-26,25200,10000,,30,3
+Oct-26,32400,11000,,38,4
+Nov-26,40800,12000,,47,4
+Dec-26,50400,13000,,58,5
+NOTES:,Assumptions: $29 avg MRR per customer. 8% monthly churn. Growth rate based on current trajectory + launch marketing push in April.,Expenses include: AWS hosting ($400/mo increasing), contractor ($2K/mo from June), tools/subscriptions ($300/mo), Genesis program costs (0 - equity free). NOT including founder salaries.,,"Jordan thinks these projections are too optimistic. Probably right. But investors want to see ambition?",
+BANK BALANCE:,"$47,200 (as of 31 Mar). Personal savings + $15K from a family loan. Need to raise by August or we're in trouble.",,,,

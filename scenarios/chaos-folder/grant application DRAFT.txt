@@ -1,0 +1,58 @@
+NSW Small Business Innovation Grant - DRAFT APPLICATION
+Due: 30 April 2026
+Max funding: $25,000
+
+=== SECTION 1: APPLICANT DETAILS ===
+[TODO: fill in ABN, registration details, etc.]
+
+=== SECTION 2: PROJECT SUMMARY ===
+[Company name] is developing an AI-powered financial operations platform designed for Australian small businesses with revenue under $5M. Our solution automates transaction categorisation, compliance monitoring, and reporting — tasks that currently consume 6-8 hours per week for the average small business owner.
+
+=== SECTION 3: PROBLEM STATEMENT ===
+Australian small businesses face a growing compliance burden. The ATO's reporting requirements have increased by [TODO: find stat] over the past 5 years, yet most small businesses still rely on manual processes or expensive enterprise software not designed for their needs. This creates a compliance gap where small businesses are at higher risk of errors and penalties.
+
+[TODO: cite ABS small business statistics]
+[TODO: reference ATO compliance cost study]
+
+=== SECTION 4: PROPOSED SOLUTION ===
+Our platform uses machine learning to:
+1. Automatically categorise financial transactions with 95%+ accuracy
+2. Monitor compliance requirements and alert business owners proactively
+3. Generate ATO-ready reports with one click
+4. Provide real-time financial health dashboards
+
+[TODO: add technical architecture paragraph]
+[TODO: mention Australian data sovereignty - all data stored in AWS Sydney]
+
+=== SECTION 5: MARKET VALIDATION ===
+- 340 waitlist signups (organic)
+- 12 pilot customers, 3 paying ($2,400 MRR)
+- Net Promoter Score of 72 from pilot users
+- Customer acquisition cost of $45 (blended)
+- Letters of intent from 2 enterprise prospects
+
+[TODO: include quotes from customer interviews]
+
+=== SECTION 6: USE OF FUNDS ===
+$25,000 allocation:
+- $10,000 — Xero and MYOB API integration development
+- $8,000 — Compliance engine enhancement (ATO regulation updates)
+- $5,000 — User testing and iteration with pilot customers
+- $2,000 — Security audit and SOC2 preparation
+
+=== SECTION 7: TEAM ===
+[TODO: write team bios]
+[TODO: attach CVs]
+
+=== SECTION 8: MILESTONES ===
+Month 1-2: Complete Xero integration, begin MYOB integration
+Month 3-4: Enhanced compliance engine, expanded pilot program (target 30 customers)
+Month 5-6: SOC2 preparation, launch public beta
+
+[this is rough - Jordan said the milestones need to be more specific with measurable outcomes]
+
+=== NOTES ===
+- Lisa mentioned this grant has a 30% acceptance rate
+- They weight "job creation" heavily — should we mention our plan to hire?
+- Need 2 references — Tony and David (Genesis mentors)?
+- Apparently they like to see co-funding / matched funding — mention the pre-seed raise?
