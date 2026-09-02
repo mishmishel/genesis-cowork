@@ -8,9 +8,9 @@
 
 You've organised chaos. You've cleaned messy data. You've built a reusable skill. Now let's put it all together and do something real.
 
-In the organised folder from Lesson 1, there's a file with notes from a demo day. In the contact list from Lesson 2, there's an investor named **Marnix Denys** from **Airtree Ventures**. He's the person running this session — and he's in the room right now.
+In the organised folder from Lesson 1, there's a file with notes from a demo day. In the contact list from Lesson 2, there's a person named **Anna Fitzgerald** from **Genesis**. She's the person running this session — and she's in the room right now.
 
-Your graduation exercise: **research Airtree, draft a pitch email, and send it to him.**
+Your graduation exercise: **research Genesis, draft a pitch email, and send it to her.**
 
 This isn't a simulation. This is a real email to a real investor. Let's make it count.
 
@@ -22,26 +22,28 @@ USER: [Response]
 
 ## Step 1: Research the Investor
 
-First, let me find out what I can about Marnix and Airtree. A great cold email shows you've done your homework.
+First, let me find out what I can about Anna and Genesis. A great cold email shows you've done your homework.
 
-ACTION: Search the web for information about Airtree Ventures and Marnix Denys. Look for:
-- What Airtree invests in (stage, sectors, geography)
-- Recent portfolio companies or notable investments
-- Marnix's role and background
-- Airtree's open-source VC resources or founder programs
+ACTION: Search the web for information about Genesis and Anna Fitzgerald. Look for:
+
+- What past Genesis cohorts were
+- Past mentors Genesis had
+- Anna's role and background
+- Genesis startup success stories
 - Any recent news or blog posts
 
-Also check the contact data from Lesson 2 — the demo day notes about Marnix specifically mentioned he's interested in how startups use AI agents.
+Also check the contact data from Lesson 2 — the demo day notes about Anna specifically mentioned she's interested in startup storytelling abilities.
 
 ACTION: Present a brief investor profile:
-- **Firm:** Airtree Ventures — [summary]
-- **Person:** Marnix Denys — [role, interests]
+
+- **Firm:** Genesis — [summary]
+- **Person:** Anna Fitzgerald — [role, interests]
 - **Relevant context:** [anything that connects to the student's startup]
 - **Approach angle:** [suggested hook based on the research]
 
 SAY: "Here's what I found. See how this changes the email you'd write? A generic 'Hi, we're raising' email gets deleted. An email that references something specific gets read."
 
-WAIT: Does this match what you know about Airtree? Anything you'd add from the session today?
+WAIT: Does this match what you know about Genesis? Anything you'd add from the session today?
 
 USER: [Response]
 
@@ -58,6 +60,7 @@ ACTION: Present what you found and what you already know, then ask the student t
 SAY: "Here's what I know about [startup name] so far: [summary from conversation + web search]. To write a strong pitch email, I need a few more things from you:"
 
 WAIT: Can you give me:
+
 1. Your key traction metrics — customers, revenue, waitlist, anything with a number
 2. What you're raising (amount, stage) — or if you're not raising yet, what you'd want from an investor conversation
 3. One sentence on why YOUR team is the right one to solve this problem
@@ -79,13 +82,15 @@ USER: [Response]
 ## Step 3: Draft the Email
 
 Now let's write the email. A great investor cold email is:
+
 - **Short** — under 150 words. Investors scan, they don't read.
 - **Personalised** — shows you know who they are and why you're reaching out to them specifically
 - **Specific** — real numbers, not vague claims
 - **Has a clear ask** — what do you want them to do next?
 
-ACTION: Draft a cold email to marnix@airtree.vc. The email should:
-1. Open with a specific, personalised hook (reference something about Airtree, the session today, or Marnix's interests)
+ACTION: Draft a cold email to anna.fitzgerald@sydney.edu.au. The email should:
+
+1. Open with a specific, personalised hook (reference something about Genesis, the session today, or Anna's interests)
 2. One sentence on the problem
 3. One sentence on the solution
 4. 2-3 bullet points of traction (real numbers from the course files)
@@ -118,7 +123,7 @@ ACTION: Check if Gmail is connected as a connector.
 
 SAY: "You've got Gmail connected — perfect. I can create this as a draft in your Gmail, or if you're feeling bold, you can send it right from there."
 
-ACTION: Create the email as a Gmail draft to marnix@airtree.vc with the subject line the student approves (suggest something specific, not "Investment Opportunity").
+ACTION: Create the email as a Gmail draft to anna.fitzgerald@sydney.edu.au with the subject line the student approves (suggest something specific, not "Investment Opportunity").
 
 SAY: "Done — check your Gmail drafts. It's sitting there ready to send. Open Gmail, review it one last time, and hit send when you're ready. That's your graduation."
 
@@ -126,9 +131,9 @@ SAY: "Done — check your Gmail drafts. It's sitting there ready to send. Open G
 
 SAY: "You don't have Gmail connected — no problem. I've saved the email as a file in your course folder. You can copy-paste it into your email client and send it manually."
 
-ACTION: Save the email as `pitch-email-to-airtree.md` in the course folder.
+ACTION: Save the email as `pitch-email-to-genesis.md` in the course folder.
 
-SAY: "The file is in your course folder. Open it, copy the text, paste it into a new email to marnix@airtree.vc, and send. That's your graduation."
+SAY: "The file is in your course folder. Open it, copy the text, paste it into a new email to anna.fitzgerald@sydney.edu.au, and send. That's your graduation."
 
 ---
 

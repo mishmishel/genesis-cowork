@@ -4,7 +4,7 @@
 
 An interactive course that teaches Claude Cowork by doing real work — not by explaining features. Designed for startup founders going through the University of Sydney's Genesis accelerator program. Students learn by watching Cowork organise their startup files, driving a contact data cleanup themselves, building a reusable investor research skill, and pitching a real investor.
 
-By the end, students can delegate real operational work to Cowork — not just ask questions. And they'll have sent a pitch email to an Airtree investor.
+By the end, students can delegate real operational work to Cowork — not just ask questions. And they'll have sent a pitch email to a Genesis Co-Head.
 
 ## Who Is It For?
 
@@ -19,16 +19,20 @@ The course takes 50-75 minutes for all 4 lessons.
 ## Course Structure
 
 ### Lesson 1: First Contact (~20 min)
+
 **Students watch Cowork work.** A folder of 13 messy startup files (pitch decks, interview notes, financial projections, mentor feedback) gets organised into a clean structure — all while the student watches in their file explorer. Introduces the "worker not chatbot" mental model.
 
 ### Lesson 2: Data Cleanup (~20 min)
+
 **Students drive a workflow.** Two contact lists in different formats — one from an accelerator network, one from a demo day — need to be merged, deduplicated, and cross-referenced to resolve conflicts. Students learn to describe outcomes, not steps.
 
 ### Lesson 3: Build Your Own Skill (~15 min)
+
 **Students create a reusable automation.** An investor research skill that can be run before any meeting — research the firm, find the approach angle, draft talking points. Students can also sketch a skill for their own repeating tasks.
 
 ### Lesson 4: The Pitch (~15 min)
-**Students pitch a real investor.** Using the investor research skill, their startup materials, and optionally the Gmail connector, students research Marnix Denys (Airtree Ventures), draft a personalised pitch email, and send it. Course graduation = a real pitch sent to a real investor.
+
+**Students pitch a real investor.** Using the investor research skill, their startup materials, and optionally the Gmail connector, students research Anna Fitzgerald, draft a personalised pitch email, and send it. Course graduation = a real pitch sent.
 
 ## What's In the Folder
 
@@ -52,12 +56,14 @@ genesis-cowork-course/
 ## How to Run It
 
 ### For the Genesis session:
+
 1. Distribute the course folder to attendees (AirDrop, shared drive, USB)
 2. Each student opens Claude Cowork and selects the course folder
 3. Say: **"Read the START-HERE.md and start lesson 1"**
 4. The course teaches itself interactively
 
 ### Pre-work for attendees:
+
 1. Download Claude desktop app and sign up for Pro ($20/mo)
 2. Enable Google Workspace connectors: Settings > Connectors > Google (Gmail, Calendar, Drive)
 3. Download the course folder to their laptop

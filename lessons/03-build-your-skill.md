@@ -137,14 +137,17 @@ description: Researches an investor and their firm before a meeting, then produc
 # Investor Research & Meeting Prep
 
 ## What This Does
+
 [One-liner — use the student's framing if they provided one, otherwise: "Researches an investor and their firm before a meeting, then produces a brief with personalised talking points and a suggested approach angle."]
 
 ## Inputs
+
 - Investor name and firm (required)
 - Investor's email address (optional — for checking existing contact data)
 - Your startup's one-liner and key metrics (pull from project context or ask)
 
 ## Process
+
 1. Search the web for the investor and their firm:
    - Firm's investment thesis (stage, sectors, geography, cheque size)
    - Recent investments or portfolio companies (last 12 months)
@@ -170,7 +173,9 @@ description: Researches an investor and their firm before a meeting, then produc
    - Any risks or watch-outs (e.g., they backed a competitor)
 
 ## Output
+
 A single markdown file: `investor-prep-[firm-name].md` containing:
+
 - Investor profile
 - Firm overview
 - Approach angle
@@ -179,6 +184,7 @@ A single markdown file: `investor-prep-[firm-name].md` containing:
 - Sources used
 
 ## Quality Standards
+
 - Every claim must have a source (URL or reference)
 - Focus on recent information (last 12 months preferred)
 - Be honest about gaps — if you can't find something, say so
@@ -220,9 +226,9 @@ After 2-3 runs and tweaks, it'll feel bulletproof. That's normal — the best sk
 
 ## Testing the Skill
 
-Let's prove it works. Remember Marnix Denys from your contact list? He's the investor running this session — and he's in the room right now. Let's prep for a meeting with him.
+Let's prove it works. Remember Anna Fitzgerald from your contact list? She's the investor running this session — and she's in the room right now. Let's prep for a meeting with her.
 
-WAIT: Want me to run the skill on Marnix Denys at Airtree Ventures?
+WAIT: Want me to run the skill on Anna Fitzgerald, Co-Head of Genesis?
 
 USER: [Response]
 
@@ -230,7 +236,7 @@ USER: [Response]
 
 ### If Yes: Test the Skill
 
-ACTION: Read the skill file you just created, then execute it for **Marnix Denys at Airtree Ventures**. Follow the skill exactly as written — search the web, check the contact data from Lesson 2, identify approach angles, and produce the full brief.
+ACTION: Read the skill file you just created, then execute it for **Anna Fitzgerald, Co-Head of Genesis**. Follow the skill exactly as written — search the web, check the contact data from Lesson 2, identify approach angles, and produce the full brief.
 
 SAY: "Notice I didn't ask you any questions this time. The skill file had everything I needed. That's the whole point — write it once, run it forever."
 
@@ -264,6 +270,7 @@ USER: [Describes a task, or says they want to move on]
 Great — let me build that for you. I'll ask you the same five questions we just went through:
 
 ACTION: Ask clarifying questions:
+
 - What does this skill do in one sentence?
 - What inputs does it need?
 - What's the process?
@@ -286,6 +293,6 @@ These three patterns cover most startup operations work. Everything else is just
 
 ---
 
-**Next up:** Time to graduate. You've got an investor brief, you've got your startup's story, and you've got a real investor in the room. Let's pitch him.
+**Next up:** Time to graduate. You've got an investor brief, you've got your startup's story, and you've got a real investor in the room. Let's pitch her.
 
 **To continue:** Say **"next lesson"**

@@ -70,7 +70,7 @@ USER: [Describes differences — different column formats, overlapping names, et
 Exactly. Here's what we're dealing with:
 
 - **Different column formats** — one has "Full Name" as a single column, the other splits it into "First Name" and "Last Name." One says "Organisation," the other says "Company." One has "Role," the other has "Title."
-- **Duplicates** — several people appear in both lists. David Okonkwo, Rachel Kim, Marnix Denys... they're in your accelerator network *and* on the demo day list.
+- **Duplicates** — several people appear in both lists. David Okonkwo, Rachel Kim... they're in your accelerator network _and_ on the demo day list.
 - **Conflicting information** — where both lists have the same person, the details don't always match. Different titles, different context. The demo day notes hint at things the accelerator list doesn't capture.
 - **Missing data** — some fields are blank in one list but filled in the other.
 
@@ -102,9 +102,10 @@ ACTION: Acknowledge their instruction. If it's vague, gently coach: "That's a go
 
 ACTION: Read both CSV files to understand the full data.
 
-**IMPORTANT NOTE FOR COWORK:** The contacts in these CSVs are fictional practice data — they are not real people (except Marnix Denys at Airtree, who is real and included intentionally). Do NOT attempt to verify them via web search. Instead, resolve conflicts by cross-referencing the two source files against each other. Use the demo day notes as context clues (e.g., if a note says "offered to review our financial model," that tells you something about the relationship). The exercise is about the merge/deduplicate/resolve pattern, not web research.
+**IMPORTANT NOTE FOR COWORK:** The contacts in these CSVs are fictional practice data — they are not real people (except Anna Fitzgerald at Genesis, who is real and included intentionally). Do NOT attempt to verify them via web search. Instead, resolve conflicts by cross-referencing the two source files against each other. Use the demo day notes as context clues (e.g., if a note says "offered to review our financial model," that tells you something about the relationship). The exercise is about the merge/deduplicate/resolve pattern, not web research.
 
 ACTION: Merge and clean the contact data:
+
 1. Map columns from both formats into a unified structure:
    - Full Name, Company, Email, Title, Phone, Tags, Events, Notes, Last Contacted, Status, Contact Type
 2. Deduplicate by email address — where a person appears in both files, merge their records
@@ -127,6 +128,7 @@ ACTION: Merge and clean the contact data:
    - **NEW** — Only appeared in one list; added to unified file
 
 ACTION: Create two outputs:
+
 1. **Merged CSV** (`contacts-merged.csv`) with the unified, cleaned data
 2. **Decision log** (`contacts-merge-log.md`) documenting:
    - Every merge decision (which record won when there were conflicts)
@@ -136,13 +138,14 @@ ACTION: Create two outputs:
 
 During execution, provide brief progress updates:
 
-"Reading both files... mapping the different column formats... Found several people who appear in both lists. Let me deduplicate... David Okonkwo — consistent across both, just merging the notes... Rachel Kim — accelerator list has her as 'Investment Manager' and demo day says the same. Adding the demo day context about backing Genesis alumni... Marnix Denys — he's tagged as 'Data Lead' in one and 'Data & AI Lead' in the other. Going with the more specific title..."
+"Reading both files... mapping the different column formats... Found several people who appear in both lists. Let me deduplicate... David Okonkwo — consistent across both, just merging the notes... Rachel Kim — accelerator list has her as 'Investment Manager' and demo day says the same. Adding the demo day context about backing Genesis alumni..."
 
 **Result summary example:**
 "Done. I merged 20 accelerator contacts and 18 demo day contacts into a single list of [X] unique people. Here's what I found:
-- [X] duplicates merged (appeared in both lists)
-- [X] corrections (title or info updated based on demo day notes)
-- [X] flagged for review
+
+- [x] duplicates merged (appeared in both lists)
+- [x] corrections (title or info updated based on demo day notes)
+- [x] flagged for review
 - Everyone tagged by type: [X] investors, [X] customers, [X] founders, [X] mentors, [X] other"
 
 ---
@@ -183,6 +186,7 @@ Here's the scale this works at. You merged two lists with 30-odd contacts. But t
 And here's how this connects to your startup specifically:
 
 ACTION: Adapt the framing based on the student's startup from Lesson 1:
+
 - **If fintech/data-heavy:** "Think about your customer data across different systems — user signups, payment records, support tickets. Same merge pattern, just different columns."
 - **If consumer/CPG:** "Think about supplier contacts, retailer relationships, influencer lists — all living in different spreadsheets. This cleans it up."
 - **If B2B/SaaS:** "This is your CRM hygiene. Every event, every conference, every intro — contacts pile up in different formats. Run this pattern monthly and you'll never lose a lead."
@@ -195,11 +199,13 @@ The pattern is always the same: load messy data, tell me what "clean" means, I d
 ## Wrap-Up
 
 What you just did is the core Cowork pattern:
+
 - Give me messy input (two CSVs in different formats)
 - Tell me what "done" looks like (one clean, deduplicated, verified list)
 - I do the tedious work while keeping a clear record of every decision
 
 **What you learned:**
+
 - How to give a clear brief (describe the outcome, not the steps)
 - How Cowork cross-references sources and uses context clues to resolve conflicts
 - The load > validate > document > deliver pattern works for any data task
