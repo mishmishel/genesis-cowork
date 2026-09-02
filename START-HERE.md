@@ -20,7 +20,7 @@ Simply say: **"start"** or **"lesson 1"**
 2. **Data Cleanup** — Merge two messy contact lists from networking and demo days (~20 min)
 3. **Build Your Own Skill** — Create a reusable investor research automation (~15 min)
 
-**The Pitch (Lesson 4):** 4. **The Pitch** — Research a real investor (Marnix Denys, Airtree Ventures), draft and send your pitch email
+**The Pitch (Lesson 4):** 4. **The Pitch** — Research a real investor (Anna Fitzgerald, Co-Head of Genesis), draft and send your pitch email
 
 **Note on Lesson 4:** If you have Gmail connected as a connector, Cowork can create the email draft directly in your Gmail. If not, it will save the email as a file you can copy-paste.
 
@@ -30,7 +30,7 @@ Simply say: **"start"** or **"lesson 1"**
 
 This course is designed for founders going through the **Sydney Genesis** accelerator program at the University of Sydney. The scenarios use startup-relevant examples: pitch decks, customer interviews, investor contacts, and Genesis program milestones.
 
-The course culminates in pitching a real investor — **Marnix Denys** (marnix@airtree.vc), Data & AI Lead at Airtree Ventures — who is running this session.
+The course culminates in pitching to the Co-Head of Genesis — **Anna Fitzgerald** (anna.fitzgerald@sydney.edu.au) — who is running this session.
 
 ---
 
