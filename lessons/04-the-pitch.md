@@ -61,7 +61,7 @@ SAY: "Here's what I know about [startup name] so far: [summary from conversation
 
 WAIT: Can you give me:
 
-1. Your 10 sentence pitch
+1. Your ten sentence pitch
 2. Any updates on traction metrics since the start of the program
 3. Your progress since speaking with the program mentors
 
