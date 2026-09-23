@@ -61,9 +61,9 @@ SAY: "Here's what I know about [startup name] so far: [summary from conversation
 
 WAIT: Can you give me:
 
-1. Your key traction metrics — customers, revenue, waitlist, anything with a number
-2. What you're raising (amount, stage) — or if you're not raising yet, what you'd want from an investor conversation
-3. One sentence on why YOUR team is the right one to solve this problem
+1. Your 10 sentence pitch
+2. Any updates on traction metrics since the start of the program
+3. Your progress since speaking with the program mentors
 
 USER: [Response]
 
